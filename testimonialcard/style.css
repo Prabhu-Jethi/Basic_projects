@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.testimonial {
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    max-width: 100%;
+    width: 400px;
+    overflow: hidden;
+    display: inline-block;
+    margin: 3rem;
+}
+
+.testimonial-body {
+    padding: 40px 40px 80px;
+}
+
+.testimonial-body p {
+    color: #555;
+    margin: 0;
+    line-height: 30px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.testimonial-footer {
+    background-color: #7074ec;
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+}
+
+.testimonial-footer img {
+    border-radius: 50%;
+    border: 5px solid #fff;
+    margin-top: -100px;
+}
+
+.testimonial-footer h3 {
+    margin: 10px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.testimonial-footer h4 {
+    letter-spacing: 1px;
+    color: #e1e1e1;
+    font-weight: 200;
+    margin: 0 0 25px 0;
+}
+
+.testimonial-footer .socials {
+    letter-spacing: 2px;
+    font-size: 23px;
+}
+
+.socials .fa-twitter:hover {
+    color: #000;
+}
+
+.socials .fa-linkedin:hover {
+    color: #000;
+}
+
+.socials .fa-github:hover {
+    color: #000;
+}
