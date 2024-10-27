@@ -5,3 +5,4 @@ This is a public repository containing all basic to advanced html and css projec
 #3 Social Media Buttons
 #4 Chat Interface
 #5 Progress Bar
+#6 Image Slider
