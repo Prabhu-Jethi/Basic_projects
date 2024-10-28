@@ -39,13 +39,6 @@ body {
     animation: rotate3 1s linear infinite;
 }
 
-/* .loading {
-    color: #fff;
-    text-align: center;
-    margin-left: 48vw;
-    font-size: 5px;
-} */
-
 @keyframes rotate1 {
     0% {
         transform: rotateX(35deg) rotateY(-45deg) rotateZ(0deg);
