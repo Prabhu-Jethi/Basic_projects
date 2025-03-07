@@ -1,4 +1,4 @@
-This is a public repository containing all basic to advanced html and css projects.
+This is a public repository containing some basic projects using HTML,CSS and JavaScript.
 
 #1 Testimonial Card
 <br>
